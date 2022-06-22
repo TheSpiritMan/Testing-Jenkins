@@ -1,4 +1,4 @@
 # Testing-Jenkins
 Just a test for jenkins webhook.
-- Firsy Attempt
-- Just creating ne branch and testing webhook.
+- First Attempt
+- Just creating a branch and testing webhook.
